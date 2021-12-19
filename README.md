@@ -1,5 +1,5 @@
 # Log4j-PoSH
-These Powershell scripts/functions represent some quickly thrown together tools to assist in manually mitigating CVE-2021-44228.  These were based on the guidance provided by Apache on their (Security Page)[https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44228] for Log4j.  
+These Powershell scripts/functions represent some quickly thrown together tools to assist in manually mitigating CVE-2021-44228.  These were based on the guidance provided by Apache on their [Security Page](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44228) for Log4j.  
 This repository may change as new information about log4shell comes out, and as my need for tools evolves.  
   
 # Get-Log4jJarFiles  
